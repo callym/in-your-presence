@@ -4,6 +4,8 @@ _a program/performance_
 
 in-your-presence uses non-verbal/visible communication to explore the feeling of sharing a physical space in silence
 
+[view documentation video](https://vimeo.com/163750264)
+
 to run
 -----
 1. build with visual studio 2015
